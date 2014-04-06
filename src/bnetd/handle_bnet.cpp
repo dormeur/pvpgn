@@ -71,6 +71,7 @@
 #include "friends.h"
 #include "autoupdate.h"
 #include "anongame.h"
+#include <errno.h>
 #ifdef WIN32_GUI
 #include <win32/winmain.h>
 #endif
